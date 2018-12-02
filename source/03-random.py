@@ -1,12 +1,15 @@
 # -*- coding: UTF-8 -*-
 
 # Filename : 03-random.py
-# author by : www.runoob.com
+# author by : （学员ID)
 
-# 生成 0 ~ 9 之间的随机数
+# 目的:
+# 掌握随机的概念
+# 掌握集中不同的产生随机数的方式
 
 # 导入 random(随机数) 模块
 import random
+
 
 # 产生 0 到 1 之间的随机浮点数
 print( "随机数 0-1 是：" )
