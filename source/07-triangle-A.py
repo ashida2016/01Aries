@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-# Filename : 07-triangle-A.py
+# Filename : 07-triangle-a.py
 # author by : （学员ID)
 
 # 目的:
