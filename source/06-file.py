@@ -23,7 +23,7 @@ f.close()
 # 读文件
 f = open(filename, 'r') # readonly 方式读文件
 
-print("文件内容如下：")
+print("第一个文件内容如下：")
 text4read = f.read()
 print(text4read)
 
